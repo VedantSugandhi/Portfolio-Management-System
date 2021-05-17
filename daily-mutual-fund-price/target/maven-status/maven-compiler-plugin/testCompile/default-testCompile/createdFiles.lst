@@ -1,0 +1,5 @@
+com\cts\portfolio\dailymutualfundprice\DailyMutualFundPriceApplicationTest.class
+com\cts\portfolio\dailymutualfundprice\service\MutualFundDetailsServiceImplTest.class
+com\cts\portfolio\dailymutualfundprice\model\MutualFundDetailsTest.class
+com\cts\portfolio\dailymutualfundprice\exception\MutualFundNotFoundExceptionTest.class
+com\cts\portfolio\dailymutualfundprice\model\ErrorResponseTest.class
