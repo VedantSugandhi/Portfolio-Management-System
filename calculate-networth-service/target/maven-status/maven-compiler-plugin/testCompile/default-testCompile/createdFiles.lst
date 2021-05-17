@@ -1,0 +1,10 @@
+com\cts\portfolio\networth\model\AssetDetailsTest.class
+com\cts\portfolio\networth\model\PortfolioDetailsTest.class
+com\cts\portfolio\networth\exception\NetWorthExceptionTest.class
+com\cts\portfolio\networth\CalculateNetworthMicroserviceApplicationTests.class
+com\cts\portfolio\networth\model\AuthResponseTest.class
+com\cts\portfolio\networth\model\MutualFundDetailsTest.class
+com\cts\portfolio\networth\exception\SellCountOverLimitExceptionTest.class
+com\cts\portfolio\networth\model\StockDetailsTest.class
+com\cts\portfolio\networth\model\AssetSellDetailsTest.class
+com\cts\portfolio\networth\service\CalculateNetWorthServiceTest.class

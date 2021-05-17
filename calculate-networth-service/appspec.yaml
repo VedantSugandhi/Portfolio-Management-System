@@ -1,0 +1,10 @@
+version: 1.0
+Resources:
+  - TargetService:
+      Type: AWS::ECS::Service
+      Properties:
+        TaskDefinition: "arn:aws:ecs:us-east-2:234825976347:task-definition/portfolio-management-task-def:3"
+        LoadBalancerInfo:
+          ContainerName: "cde14-portfolio-networth-container"
+          ContainerPort: "8200"
+        PlatformVersion: "LATEST"
