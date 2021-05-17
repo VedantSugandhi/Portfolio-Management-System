@@ -1,0 +1,3 @@
+com\cts\portfolio\authorizationservice\AuthorizationServiceApplicationTest.class
+com\cts\portfolio\authorizationservice\service\AuthServiceTest.class
+com\cts\portfolio\authorizationservice\service\JwtUtilTest.class
