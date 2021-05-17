@@ -1,0 +1,5 @@
+com\cts\portfolio\dailyshareprice\DailySharePriceServiceTests.class
+com\cts\portfolio\dailyshareprice\DailySharePriceApplicationTests.class
+com\cts\portfolio\dailyshareprice\exception\StockNotFoundExceptionTest.class
+com\cts\portfolio\dailyshareprice\model\ErrorResponseTest.class
+com\cts\portfolio\dailyshareprice\service\StockDetailsTest.class

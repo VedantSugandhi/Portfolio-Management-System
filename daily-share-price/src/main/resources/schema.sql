@@ -1,0 +1,1 @@
+Create table stock_details (stock_id varchar(5) primary key,stock_name varchar(20),stock_value DOUBLE);
