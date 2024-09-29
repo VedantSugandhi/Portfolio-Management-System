@@ -14,6 +14,4 @@ import com.cts.portfolio.authorizationservice.model.UserData;
 @Repository
 public interface UserRepository extends JpaRepository<UserData, String> {
 
-	
-
 }
